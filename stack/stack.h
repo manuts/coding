@@ -3,7 +3,6 @@
 
 /* This is C implementation of a stack data type containing integers
  * The stack is implemented using a dynamically allocated array.
- * Variables
  */
 typedef struct
 {
